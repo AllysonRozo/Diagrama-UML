@@ -9,3 +9,7 @@ Cada uno con sus atrubutos y métodos propios, donde aplicamos herencia y polimo
 Ejercicio 2 : Zoológico
 
 crear un sistema para poder registrar animales con una base animal y subclases como:mamifero y reptil, aplicando herencia y polimorfismo.
+
+Enlace del PDF
+
+https://tecnologicodeantioquia-my.sharepoint.com/:b:/g/personal/allyson_villalba_correo_tdea_edu_co/EfWdZtZcGClGthNdW142mhEBy5D2KEREFY0zYugtmBr6SA?e=cpHeUr
